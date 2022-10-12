@@ -8,5 +8,6 @@ public class GItTest2 {
         System.out.println("3333333");
         System.out.println("666666666");
         System.out.println("898989899");
+        System.out.println("push test");
     }
 }
